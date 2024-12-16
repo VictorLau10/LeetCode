@@ -1,3 +1,7 @@
+# Sep 17, 2024
+# Beats 12.92% Runtime
+# Beats 47.12% Memory
+
 class Solution(object):
     def uncommonFromSentences(self, s1, s2):
         """
