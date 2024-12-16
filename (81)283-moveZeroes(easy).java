@@ -1,6 +1,6 @@
 /* 283. Move Zeroes
  * Oct 17, 2024
- * Beats 24.09% Runtime
+ * Beats 24.09% Runtime (3ms)
  * Beats 44.01% Memory
  */
 
