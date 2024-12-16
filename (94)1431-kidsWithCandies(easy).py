@@ -17,5 +17,4 @@ class Solution(object):
                 lst.append(True)
             else: 
                 lst.append(False)
-        return lst
-        
+        return lst        
